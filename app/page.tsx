@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -17,7 +16,7 @@ export default function Home() {
       </main>
       <footer>
         <div className="space-x-4 pt-2">
-          <a href="https://github.com/harsh1dev" target="_blank" rel="noopener noreferrer" 
+          <a href="https://github.com/harsh1dev" target="_blank" rel="noopener noreferrer"
             className="text-gray-400 hover:text-blue-500 transition-colors duration-200">
             github
           </a>
